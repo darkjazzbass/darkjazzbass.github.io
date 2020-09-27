@@ -1,0 +1,11 @@
+1. <li>의 상급 ul/ol
+2. h1~6-제목
+3. <p>는 여백
+4. <img> 그림붙이기
+5. <title> 중요함 홈페이지 주소
+6. <meta> 서식을 이렇게 읽어라 명령
+7. <body> 본문을 묶는용도.
+8. <head> 바디위에 써주는 약속
+9. <html> 헤드위에 써주는 약속
+10. <!doctype html> html위에 써주는 약속
+11. <link> = <a href="주소"> ex) <A HREF="2.html" target="_blank" title="html specification">
